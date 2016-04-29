@@ -4,7 +4,7 @@
 #
 Name     : rubygem-warden
 Version  : 1.2.6
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/warden-1.2.6.gem
 Source0  : https://rubygems.org/downloads/warden-1.2.6.gem
 Summary  : No detailed summary available
